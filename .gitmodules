@@ -10,3 +10,6 @@
 [submodule "bgfx"]
 	path = bgfx
 	url = https://github.com/bkaradzic/bgfx/
+[submodule "3rdparty/premake-vscode"]
+	path = 3rdparty/premake-vscode
+	url = https://github.com/MiniFalafel/premake-vscode
